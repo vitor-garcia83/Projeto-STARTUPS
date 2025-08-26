@@ -1,4 +1,4 @@
-Passos para rodar o SOS Mulher segura
+Passos para rodar o Fixsi
 Clone o repositório na sua máquina
 De os seguintes comandos em ordem:
 ● Remove-Item -Recurse -Force venv
