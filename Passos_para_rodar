@@ -1,0 +1,12 @@
+Passos para rodar o SOS Mulher segura
+Clone o repositório na sua máquina
+De os seguintes comandos em ordem:
+● Remove-Item -Recurse -Force venv
+● python -m venv venv
+● venv\Scripts\activate
+● cd .\backend\
+● pip install -r requirements.txt
+● python manage.py makemigrations
+● python manage.py migrate
+● python manage.py runserver
+Após isso so digitar http://127.0.0.1:8000/ no navegador
